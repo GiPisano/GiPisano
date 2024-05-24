@@ -1,6 +1,14 @@
 <h1 align=center>Hi there 👋, I'm Giacomo Pisano 💻</h1>
 <p align=center>A passionate Jr. Full Stack Web Developer</p>
 
-* 📫 How to reach me: ...
+* 📫 How to reach me: giacomopisano33@proton.me
+* 👨‍💻 All of my projects are available at: https://github.com/GiPisano?tab=repositories
+### Connect with me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giacomo-pisano-157966305/)
 
-* 👨‍💻 All of my projects are available at [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GiPisano?tab=repositories)  
+<h3>My skills & tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,git,github,bootstrap,vuejs,sass,mysql,php,laravel,npm,vite)](https://skillicons.dev)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GiPisano&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiPisano&layout=compact&theme=radical)
