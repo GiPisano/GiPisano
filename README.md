@@ -1,5 +1,5 @@
 <h1 align=center>Hi there 👋, I'm Giacomo Pisano 💻</h1>
-<p align=center>A passionate Jr. Full Stack Web Developer</p>
+<p align=center>A passionate Full Stack Web Developer</p>
 
 * 🔭 I'm currently working on my personal portfolio.
 * 📫 How to reach me: giacomopisano33@proton.me
