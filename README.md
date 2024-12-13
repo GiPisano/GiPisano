@@ -3,7 +3,7 @@
 
 * 🔭 I'm currently working on my personal portfolio.
 * 📫 How to reach me: giacomopisano33@proton.me
-* 👨‍💻 All of my projects are available at: https://github.com/GiPisano?tab=repositories
+* 👨‍💻 All of my projects are available <a href="https://github.com/GiPisano?tab=repositories">here</a>
 ### Connect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/giacomo-pisano-157966305/)
 
