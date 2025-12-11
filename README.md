@@ -11,4 +11,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,html,css,js,git,github,bootstrap,vuejs,sass,mysql,php,laravel,npm,vite)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiPisano&layout=compact&theme=radical)
